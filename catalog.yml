@@ -1,6 +1,6 @@
 version: 1
-unique_name:jdtestrepo
+unique_name: jdtestrepo
 object_type: catalog
-label:jdtestrepo
+label: jdtestrepo
 aggressive_agg_promotion: false
 build_speculative_aggs: true
