@@ -1,6 +1,11 @@
 unique_name: New Model
 object_type: model
 label: New Model
+dimensions:
+  - Color
+  - Style
+  - Size
+  - Weight
 metrics:
   - unique_name: m_factinternetsales_salesamount_sum
     folder: Sales Metrics
