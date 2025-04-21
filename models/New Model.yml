@@ -32,3 +32,10 @@ relationships:
     to:
       dimension: dim_date_day_dimension
       level: dim_date_day_dimension Level
+  - unique_name: empty_dataset_dimcustomer_dimension
+    from:
+      dataset: ''
+      join_columns: []
+    to:
+      dimension: dimcustomer_dimension
+      level: ''
